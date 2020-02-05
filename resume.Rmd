@@ -1,0 +1,41 @@
+---
+name: Chris
+surname: Lundberg
+address: "3072 West 107th Place, Unit C | Westminster, CO 80031"
+phone: 720-256-8363
+www: deviationstation.io
+email: "chris@deviationstation.io"
+github: chris-lundberg
+linkedin: chris-lundberg
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::awesomecv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Data Science Skills
+**Communication:** data analysis reports, dashboard design, interactive applications, presentations
+
+**Data Wrangling:** data acquisition (csv, database, API, web scraping), cleaning, and transformation 
+
+**Statistics:** exploratory data analysis, model selection and validation, machine learning, time series analysis, NLP
+
+**Programming Languages:** R, Python, SQL, Java, C
+
+**Tools:** Linux, Git, Apache Airflow, Elasticsearch, Shiny
+
+# Education
+
+```{r}
+library(readr)
+read_csv("education.csv") %>% 
+  detailed_entries(degree, year, institution, location)
+```
+
+
+
+
+
