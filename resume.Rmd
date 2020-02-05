@@ -27,6 +27,16 @@ library(vitae)
 
 **Tools:** Linux, Git, Apache Airflow, Elasticsearch, Shiny
 
+**Professional Development:** CFA charterholder, Rockies Venture Club and Reading Partners volunteer
+
+# Experience
+
+```{r}
+library(readr)
+read_csv("experience.csv") %>% 
+  detailed_entries(title, dates, company, location, accomplishments)
+```
+
 # Education
 
 ```{r}
@@ -34,6 +44,8 @@ library(readr)
 read_csv("education.csv") %>% 
   detailed_entries(degree, year, institution, location)
 ```
+
+
 
 
 
