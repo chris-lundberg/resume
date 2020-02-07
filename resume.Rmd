@@ -49,7 +49,7 @@ read_csv("education.csv") %>%
 
 **Volunteering:** Rockies Venture Club, Rocky Mountain Microfinance Institute, Reading Partners
 
-**Speaking:** [*What Metrics Matter? A Public Equity Investor's Perspective*](https://www.tiedenver.org/wp-event/monthly-business-for-breakfast-on-public-market-metrics/) - TiE Denver
+**Speaking:** [*What Metrics Matter? A Public Equity Investor's Perspective*](https://github.com/chris-lundberg/measure-what-matters) - [TiE Denver](https://www.tiedenver.org/wp-event/monthly-business-for-breakfast-on-public-market-metrics/)
 
 
 
