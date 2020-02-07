@@ -27,8 +27,6 @@ library(vitae)
 
 **Tools:** Linux, Git, Apache Airflow, Elasticsearch, Shiny
 
-**Professional Development:** CFA charterholder, Rockies Venture Club and Reading Partners volunteer
-
 # Experience
 
 ```{r}
@@ -45,6 +43,13 @@ read_csv("education.csv") %>%
   detailed_entries(degree, year, institution, location)
 ```
 
+# Professional Development
+ 
+**Professional Designations:** CFA charterholder
+
+**Volunteering:** Rockies Venture Club, Rocky Mountain Microfinance Institute, Reading Partners
+
+**Speaking:** [*What Metrics Matter? A Public Equity Investor's Perspective*](https://www.tiedenver.org/wp-event/monthly-business-for-breakfast-on-public-market-metrics/) - TiE Denver
 
 
 
