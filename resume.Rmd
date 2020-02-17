@@ -19,11 +19,11 @@ library(vitae)
 # Data Science Skills
 **Communication:** data analysis reports, dashboard design, interactive applications, presentations
 
-**Data Wrangling:** data acquisition (csv, database, API, web scraping), cleaning, and transformation 
+**Data Wrangling:** data acquisition (database, API, web scraping), cleaning, and transformation 
 
-**Statistics:** exploratory data analysis, model selection and validation, machine learning, time series analysis, NLP
+**Statistics:** EDA, time series analysis, machine learning (classification, regression, unsupervised learning)
 
-**Programming Languages:** R, Python, SQL, Java, C
+**Programming Languages:** R (tidyverse, tidymodels, keras), Python (numpy, pandas, scikit-learn), SQL, Java, C
 
 **Tools:** Linux, Git, Apache Airflow, Elasticsearch, Shiny
 
@@ -38,9 +38,8 @@ read_csv("experience.csv") %>%
 # Education
 
 ```{r}
-library(readr)
 read_csv("education.csv") %>% 
-  detailed_entries(degree, year, institution, location)
+  detailed_entries(degree, year, institution, location, experience)
 ```
 
 # Professional Development
