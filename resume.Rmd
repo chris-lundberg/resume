@@ -46,7 +46,9 @@ read_csv("education.csv") %>%
  
 **Professional Designations:** CFA charterholder
 
-**Volunteering:** Rockies Venture Club, Rocky Mountain Microfinance Institute, Reading Partners
+**Entrepreneur Mentorship:** Rockies Venture Club, Rocky Mountain Microfinance Institute
+
+**Volunteering:** Manning Publications, Reading Partners
 
 **Speaking:** [*What Metrics Matter? A Public Equity Investor's Perspective*](https://github.com/chris-lundberg/measure-what-matters) - [TiE Denver](https://www.tiedenver.org/wp-event/monthly-business-for-breakfast-on-public-market-metrics/)
 
