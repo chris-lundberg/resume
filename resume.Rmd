@@ -47,9 +47,11 @@ read_csv("education.csv") %>%
  
 **Professional Designations:** CFA charterholder
 
-**Entrepreneur Mentorship:** Rocky Mountain Microfinance Institute, Floodlight Invest
+**Certifications:** AWS Certified Cloud Practitioner
 
-**Volunteering:** Rockies Venture Club, Reading Partners
+**Entrepreneur Mentorship:** Flyability, Ossus Biorenewables, Floodlight Invest
+
+**Volunteering:** Rockies Venture Club, Rocky Mountain Microfinance Institute, Reading Partners
 
 
 
