@@ -3,7 +3,7 @@ name: Chris
 surname: Lundberg
 address: "6347 South Albion Way | Centennial, CO 80121"
 phone: 720-256-8363
-email: "clundberg15@gmail.com"
+email: "chris@scaleanalytics.co"
 github: chris-lundberg
 linkedin: chris-lundberg
 date: "`r format(Sys.time(), '%B %Y')`"
@@ -16,16 +16,16 @@ library(vitae)
 library(tidyverse)
 ```
 
-# Data Science Skills
-**Communication:** data analysis reports, dashboard design, interactive applications, presentations
-
+# Skills and Certifications
 **Data Wrangling:** data acquisition (database, API, web scraping), cleaning, and transformation 
 
 **Statistics:** EDA, time series analysis, machine learning (classification, regression, unsupervised learning)
 
-**Programming Languages:** R (tidyverse, tidymodels, keras), Python (numpy, pandas, scikit-learn), SQL, Java, C
+**Programming Languages:** R, Python, SQL, Java, C
 
-**Tools:** Linux, Git, Apache Airflow, Elasticsearch, Shiny
+**Professional Designations:** CFA charterholder
+
+**Certifications:** AWS Certified Cloud Practitioner, AWS Certified Machine Learning - Specialty
 
 # Experience
 
@@ -41,14 +41,6 @@ read_csv("experience.csv") %>%
 read_csv("education.csv") %>% 
   detailed_entries(degree, year, institution, location, experience)
 ```
-
-# Professional Development
- 
-**Professional Designations:** CFA charterholder
-
-**Certifications:** AWS Certified Cloud Practitioner
-
-**Volunteering:** Rockies Venture Club, Rocky Mountain Microfinance Institute, Reading Partners
 
 
 
